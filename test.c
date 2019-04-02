@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    int apple = 0;
-    apple += 1;
+    int kewi = 0;
+    int pineapple = 1;
+    pineapple += kewi;
     return 0;
 }
